@@ -1,11 +1,36 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "posts":[
+      {
+         "id":1,
+         "title":"hello"
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   },
+   "downloadJob":{
+      "eaiAppointmentList":{
+         "eaiAppointment":[
+            {
+               "apptSeq":"1441950",
+               "bookType":"N",
+               "caseNo":"",
+               "hospital":"VH",
+               "patientKey":"92611424",
+               "slotDateTime":"2017-03-23 09:00:00.0",
+               "specialty":"MED"
+            },
+            {
+               "apptSeq":"1441951",
+               "bookType":"N",
+               "caseNo":"",
+               "hospital":"VH",
+               "patientKey":"92611424",
+               "slotDateTime":"2017-03-23 09:00:00.0",
+               "specialty":"MED"
+            }
+         ]
+      },
+      "error":""
+   }
 }
